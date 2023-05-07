@@ -1,6 +1,6 @@
 {
   "name": "with-simple-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Format your logs with ease!",
   "main": "index.js",
   "scripts": {
