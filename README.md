@@ -9,7 +9,7 @@ npm i with-simple-logger
 
 **Use:**
 ```js
-const createLogger = require('./index.js');
+const createLogger = require('with-simple-logger');
 
 const logger = createLogger('{{ user.name }} has {{ user.friends.length }} friends. His best friend is {{ user.friends.0.name }}.');
 
